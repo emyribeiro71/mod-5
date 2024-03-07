@@ -1,0 +1,5 @@
+1- o banco alimentar esta a fzr a recolha de donativos em dinheiro, programa que registre o valor do donativo de cada pessoa e va acrescentando a uma lista até que a pessoa carregue e zero e mostrar o nº de pessoas que contribuiram e qual foi o valor acumulado em donativos.
+
+2-uma equipe de basket pretende saber alguns dados estatisticos da sua equipe, programa que leia numa unica linha a altura de todos os jogadores da equipa, deve mostrar a media das alturas, quantos jogadores têm caracteristicas de poste(+1,90) e qts tem proporção para ter base (-1.75)
+
+3-vai se disputar o laçamento de um peso numa competição, faça um programa que leia a distacia do lançamentos de cada atleta. deve perguntar qts atletas vão partcipar na prova e de seguida registra os lançamentos 1 a 1 na lista. No final deve mostrar o ganhador e qual o valor do seu lançamento. deve também indicar quais foram os 3 melhores lançamentos da prova
